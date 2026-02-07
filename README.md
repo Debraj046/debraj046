@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third Year B.Tech CSE Student<br><br>💻 Strong interest in Data Structures & Algorithms<br><br>🧠 Good understanding of Computer Architecture & Core CS subjects<br><br>👨‍💻 Comfortable with C, C++, Java, and Python<br><br>🌐 Learning Full Stack Web Development<br><br>📊 Focused on writing optimized and clean code<br><br>🚀 Preparing for placements and software development roles<br><br>📚 Continuous learner, consistent and disciplined
+🎓 Third Year B.Tech IT Student<br><br>💻 Strong interest in Data Structures & Algorithms<br><br>🧠 Good understanding of Computer Architecture & Core CS subjects<br><br>👨‍💻 Comfortable with C, C++, Java, and Python<br><br>🌐 Learning Full Stack Web Development<br><br>📊 Focused on writing optimized and clean code<br><br>🚀 Preparing for placements and software development roles<br><br>📚 Continuous learner, consistent and disciplined
 
 
 ## 🌐 Socials:
