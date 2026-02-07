@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=debraj046&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj046&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 Growth is written in small improvements, one commit at a time    ~ Debraj
 
 ---
